@@ -7,8 +7,6 @@ import {
   Select,
 } from "@mui/material";
 import "./FrameComponent.css";
-;
-
 const FrameComponent = () => {
   return (
     <div className="parent">
@@ -16,29 +14,29 @@ const FrameComponent = () => {
         <div className="rectangle-parent">
           <div className="instance-child" />
           <div className="frame-parent">
-            <div className="image-3099-parent">
+            <a className="image-3099-parent" href="#">
               <img
                 className="image-3099-icon"
                 alt=""
                 src="/image-3099@2x.png"
               />
               <div className="brc-20-dao">BRC-20 DAO</div>
-            </div>
+            </a>
             <div className="frame-group">
-              <div className="frame-container">
+              <a className="frame-container" href="#" target="_blank">
                 <div className="wrapper">
                   <div className="div">{`{  }`}</div>
                 </div>
                 <b className="brc-20">BRC-20</b>
-              </div>
-              <div className="frame-container">
+              </a>
+              <a className="frame-container" href="#" target="_blank">
                 <img className="wrapper" alt="" src="/frame.svg" />
                 <b className="launchpad">Launchpad</b>
-              </div>
+              </a>
             </div>
-            <div className="label">
+            <a className="label" href="#" target="_blank">
               <div className="coming-soon">coming soon</div>
-            </div>
+            </a>
             <img className="group-child" alt="" src="/ellipse-2575.svg" />
           </div>
           <img className="instance-item" alt="" src="/ellipse-2575.svg" />
@@ -62,37 +60,37 @@ const FrameComponent = () => {
             </Button>
           </div>
         </div>
-        <div className="frame-parent1">
+        <div className="frame-div">
           <div className="thstickytop-parent">
             <div className="thstickytop">
               <div className="brc-20-dao">#</div>
             </div>
-            <div className="thstickytop1">
+            <a className="thstickytop1" href="#" target="_blank">
               <div className="brc-20-dao">Name</div>
-            </div>
-            <div className="thstickytop2">
+            </a>
+            <a className="thstickytop2" href="#" target="_blank">
               <div className="brc-20-dao">Price</div>
-            </div>
-            <div className="thstickytop3">
+            </a>
+            <a className="thstickytop3" href="#" target="_blank">
               <div className="brc-20-dao">24h %</div>
-            </div>
-            <div className="thstickytop4">
+            </a>
+            <a className="thstickytop4" href="#" target="_blank">
               <div className="market-cap-parent">
                 <div className="market-cap">Market Cap</div>
                 <img className="wrapper" alt="" src="/frame1.svg" />
               </div>
-            </div>
-            <div className="thstickytop4">
+            </a>
+            <a className="thstickytop4" href="#" target="_blank">
               <div className="brc-20-dao">Volume(24h)</div>
-            </div>
-            <div className="thstickytop6">
+            </a>
+            <a className="thstickytop6" href="#" target="_blank">
               <div className="brc-20-dao">Supply</div>
-            </div>
-            <div className="thstickytop2">
+            </a>
+            <a className="thstickytop2" href="#" target="_blank">
               <div className="brc-20-dao">Holders</div>
-            </div>
+            </a>
           </div>
-          <div className="tdh2d-f1880f84-parent">
+          <a className="tdh2d-f1880f84-parent" href="#" target="_blank">
             <div className="tdh2d-f1880f84">
               <div className="brc-20-dao">1</div>
             </div>
@@ -138,8 +136,8 @@ const FrameComponent = () => {
             <div className="tdh2d-77430025">
               <div className="div8">8,000</div>
             </div>
-          </div>
-          <div className="tdh2d-f1880f84-group">
+          </a>
+          <a className="tdh2d-f1880f84-group" href="#" target="_blank">
             <div className="tdh2d-f1880f84">
               <div className="brc-20-dao">2</div>
             </div>
@@ -185,8 +183,8 @@ const FrameComponent = () => {
             <div className="tdh2d-77430025">
               <div className="div8">8,000</div>
             </div>
-          </div>
-          <div className="tdh2d-f1880f84-parent">
+          </a>
+          <a className="tdh2d-f1880f84-container" href="#" target="_blank">
             <div className="tdh2d-f1880f84">
               <div className="brc-20-dao">3</div>
             </div>
@@ -232,8 +230,8 @@ const FrameComponent = () => {
             <div className="tdh2d-77430025">
               <div className="div8">8,000</div>
             </div>
-          </div>
-          <div className="tdh2d-f1880f84-group">
+          </a>
+          <a className="tdh2d-f1880f84-parent1" href="#" target="_blank">
             <div className="tdh2d-f1880f84">
               <div className="brc-20-dao">4</div>
             </div>
@@ -275,8 +273,8 @@ const FrameComponent = () => {
             <div className="tdh2d-77430025">
               <div className="div8">8,000</div>
             </div>
-          </div>
-          <div className="tdh2d-f1880f84-parent">
+          </a>
+          <a className="tdh2d-f1880f84-container" href="#">
             <div className="tdh2d-f1880f84">
               <div className="brc-20-dao">5</div>
             </div>
@@ -322,8 +320,8 @@ const FrameComponent = () => {
             <div className="tdh2d-77430025">
               <div className="div8">8,000</div>
             </div>
-          </div>
-          <div className="tdh2d-f1880f84-parent3">
+          </a>
+          <a className="tdh2d-f1880f84-parent3" href="#" target="_blank">
             <div className="tdh2d-f1880f84">
               <div className="brc-20-dao">6</div>
             </div>
@@ -365,8 +363,8 @@ const FrameComponent = () => {
             <div className="tdh2d-77430025">
               <div className="div8">8,000</div>
             </div>
-          </div>
-          <div className="tdh2d-f1880f84-parent">
+          </a>
+          <a className="tdh2d-f1880f84-container" href="#" target="_blank">
             <div className="tdh2d-f1880f84">
               <div className="brc-20-dao">7</div>
             </div>
@@ -412,8 +410,8 @@ const FrameComponent = () => {
             <div className="tdh2d-77430025">
               <div className="div8">8,000</div>
             </div>
-          </div>
-          <div className="tdh2d-f1880f84-parent3">
+          </a>
+          <a className="tdh2d-f1880f84-parent3" href="#" target="_blank">
             <div className="tdh2d-f1880f84">
               <div className="brc-20-dao">8</div>
             </div>
@@ -459,8 +457,8 @@ const FrameComponent = () => {
             <div className="tdh2d-77430025">
               <div className="div8">8,000</div>
             </div>
-          </div>
-          <div className="tdh2d-f1880f84-parent">
+          </a>
+          <a className="tdh2d-f1880f84-container" href="#" target="_blank">
             <div className="tdh2d-f1880f84">
               <div className="brc-20-dao">9</div>
             </div>
@@ -506,8 +504,8 @@ const FrameComponent = () => {
             <div className="tdh2d-77430025">
               <div className="div8">8,000</div>
             </div>
-          </div>
-          <div className="tdh2d-f1880f84-parent3">
+          </a>
+          <a className="tdh2d-f1880f84-parent3" href="#" target="_blank">
             <div className="tdh2d-f1880f84">
               <div className="brc-20-dao">10</div>
             </div>
@@ -553,9 +551,9 @@ const FrameComponent = () => {
             <div className="tdh2d-77430025">
               <div className="div8">8,000</div>
             </div>
-          </div>
+          </a>
         </div>
-        <div className="frame-parent2">
+        <div className="frame-parent1">
           <div className="divsc-e20acb0c-0-parent">
             <input
               className="divsc-e20acb0c-0"
@@ -566,11 +564,15 @@ const FrameComponent = () => {
             <div className="buttonsc-44910c32-0">
               <div className="all">All</div>
             </div>
-            <div className="in-progress">In-Progress</div>
-            <div className="in-progress">Completed</div>
+            <a className="in-progress" href="#" target="_blank">
+              In-Progress
+            </a>
+            <a className="in-progress" href="#" target="_blank">
+              Completed
+            </a>
           </div>
           <button className="divsc-aef7b723-030">
-            <div className="in-progress">Sort by</div>
+            <div className="sort-by">Sort by</div>
             <div className="divsc-aef7b723-0-wrapper">
               <FormControl
                 className="divsc-aef7b723-031"
